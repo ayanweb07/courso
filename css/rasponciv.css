@@ -1,0 +1,210 @@
+@media (max-width:500px){
+   
+    .hero-section{
+       height: 100%;
+      }
+
+
+      .ab-1 h1{
+        font-size: 36px;
+        font-weight: 700;
+       text-align: center;
+       }
+
+       .ab-1 p{
+        text-align: center;
+    }
+
+
+    .hero-bttn{
+        flex-direction: column;
+    }
+
+
+    #bttn-3{
+      margin: 0;
+      margin-top: 10px;
+    
+    }
+
+
+    .hero-ani{
+    display: none;
+        }
+        
+        
+        
+        .hero-ani-2{
+           display: none;
+        }
+
+
+        .hero-min img{
+            width: 90%;
+            
+            border-radius: 0;
+        }    
+
+
+        .about-section{
+            height: 100%;
+        }
+
+
+        .abu-img{
+            height: 100%;
+            border: none;
+            border-radius: 10px;
+        }
+
+
+        .abu-img h2{
+            padding-top: 20px;
+            width: 85%;
+            text-align: center;
+            }
+
+
+            .abu-img p{
+                padding-bottom: 20px;
+                width: 85%;
+                text-align: center;
+                }
+
+
+                .abu-img img{
+                    width: 100%;
+                     
+                 }
+                 .real-section{
+                    height: 100%;
+                   
+                }
+
+
+
+            
+
+   .in-row{
+    flex-direction: column;
+   }
+
+
+   .real-top h3{
+    width: 100%;
+   }
+
+
+   .real-top p{
+    width: 100%;
+   }
+
+   .card{
+    width: 100%;
+   }
+
+
+
+   .tast-row{
+    flex-direction: column;
+   }
+
+   .test-card{
+    width: 100%;
+   }
+
+
+   .from-in{
+    width: 100%;
+  }
+
+  /* #name{
+    width: ;
+    padding: 10px 0px; 
+    
+    background-color: #fff;
+    border: 2px solid #d8d8d8;
+    font-weight: 600;
+   } */
+   .st-sec{
+    height:  100%;
+  }
+  .st-sec h3{
+    width: 100%;
+  
+  }
+
+
+
+  .st-sec p{
+    width: 100%;
+
+  }
+
+
+
+  .copy-sec{
+    height: 100%;
+  }
+
+
+  .copy-sec img{
+    width: 100px;
+  }
+  .copy-sec p{
+    width: 100%;
+  
+  }
+
+  h2{
+    font-size: 25px !important;
+  }
+
+
+  
+  h3{
+    font-size: 25px !important;
+  }
+  h4{
+    font-size: 25px !important;
+  }
+
+
+
+  .abu-1 {
+    height: 100%;
+  }
+
+  .hero-sec{
+    height: 50vh;
+  }
+
+  .ab-1{
+    height: 60vh;
+  }
+
+
+  .real-top p{
+    width: 90%;
+  }
+
+
+  .from-aub{
+    align-items: center;
+    height: 100%;
+    
+  }
+
+
+  .st-sec  p{
+    width: 90%;
+  }
+
+
+ 
+
+
+ 
+
+
+}
